@@ -1,9 +1,9 @@
 # Paper list of Imbalanced Time-series Classification with Deep Learning
----
+ 
 ## Deep Learning for Imbalanced Time-Series Classification
 - [Towards Effective Classification of Imbalanced Data with Convolutional Neural Networks](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46182-3_13.pdf)
 - [Cost-sensitive Deep Learning for Early Readmission Prediction at A Major Hospital](http://www.cse.wustl.edu/~ychen/public/biokdd17.pdf)
----
+ 
 ## Deep Learning for Imbalance Classificaiton
 ### Survey
 - [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/pdf/1710.05381.pdf)
@@ -25,7 +25,7 @@
 - [CNUSVM: Hybrid CNN-Uneven SVM Model for Imbalanced Visual Learning](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7545019)
 - [Training Deep Neural Networks on Imbalanced Data Sets](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiT2eT6u5_XAhXIFpQKHZIpAVwQFggoMAA&url=https%3a%2f%2fwww-staff%2eit%2euts%2eedu%2eau%2f~lbcao%2fpublication%2fIJCNN15%2ewang%2efinal%2epdf&usg=AOvVaw0LfKmIbpYO2w4FsN5D3uHH)
 - [Deep Learning with MCA-based Instance Selection and Boostrapping for Imbalanced Data Classification](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7423094)
----
+ 
 ## Deep Learning for Time-Series Classification
 
 ### Time-Series Classification
@@ -52,7 +52,7 @@
 - [Spatially Encoding Temporal Correlations to Classify Temporal Data Using Convolutional Neural Networks](https://arxiv.org/pdf/1509.07481.pdf)
 - [Encoding Physiological Signals as Images for Affective State Recognition Using Convolutional Neural Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7590825)
 - [Representation Learning Deconvolutional for Multivariate Time Seres Classification](https://arxiv.org/pdf/1610.07258.pdf)
----
+ 
 ## Imbalanced Time-Series Classification
 ### Sampling
 - [Model-Based Oversampling for Imbalanced Sequence Classification](http://home.ustc.edu.cn/~zcgong/Paper/Model-Based%20Oversampling%20for%20Imbalanced%20Sequence%20Classification.pdf)
@@ -65,9 +65,30 @@
 
 ### Others
 - [A New Methodology Based on Imbalanced Classification for Predicting Outliers in Electricity Demand Time Series](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjonvuPxJ_XAhUJi5QKHS0xBisQFgglMAA&url=http%3a%2f%2fwww%2emdpi%2ecom%2f1996-1073%2f9%2f9%2f752%2fpdf&usg=AOvVaw1UQ_iUV8hAsAT6APOYexAZ)
----
+ 
 ## Time-Series Classification
 - [The Great Time Series Classification Bake Off An Experimental Evaluation of Recently Proposed Algorithms. Extended Version](https://arxiv.org/pdf/1602.01711.pdf)
 - [Support vector-based algorithms with weight dynamic time warping kernel function for time series classification](http://www.sciencedirect.com/science/article/pii/S095070511400433X)
 - [Early classification on multivariate time series](http://www.sciencedirect.com/science/article/pii/S092523121401008X)
 - [Imaging Time-Series to Improve Classification and Imputation](https://arxiv.org/pdf/1506.00327.pdf)
+ 
+## Imbalance CLassification
+### Survey
+- [An insight into classification with imbalanced data: empirical results and current trends on using data intrinsic characteristics](http://www.sciencedirect.com/science/article/pii/S0020025513005124)
+- [Learning from class-imbalanced data: review of methods and applications](http://www.sciencedirect.com/science/article/pii/S0957417416307175)
+- [Learning from imbalanced data](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5128907)
+### Sampling
+- [A novel algorithm for imbalance data classification based on genetic algorithm improved SMOTE](https://link.springer.com/content/pdf/10.1007%2Fs13369-016-2179-2.pdf)
+- [A novel svm modeling approach for highly imbalanced and overlapping classification](https://www.semanticscholar.org/paper/A-novel-SVM-modeling-approach-for-highly-imbalance-Qu-Su/29c916af897e998b6d8292c58d145f83e8e95dad)
+- [Evolutionary data analysis for the class imbalance problem](https://dl.acm.org/citation.cfm?id=1735168)
+- [Resampling-based ensemble methods for online class imbalance Learning](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6871400)
+- [Adaptive ensemble undersampling-boosting: a novel learning framework for imbalanced data](http://www.sciencedirect.com/science/article/pii/S0164121217301395)
+- [Fault detection for the class imbalance problem in semiconductor manufacturing processes](http://www.worldscientific.com/doi/abs/10.1142/S0218126614500492)
+### Cost-sensitive
+- [Instance categorization by support vector machines to adjust weights in adaboost for imbalanced data classification](http://www.sciencedirect.com/science/article/pii/S0020025516318047)
+- [Optimizing Cost-sensitive svm for imbalanced data: Connecting cluster to classification](https://arxiv.org/pdf/1702.01504.pdf)
+### Thresholding
+- [Reviving threshold-moving: a simple plug-in bagging ensemble for binary and multiclass imbalanced data](https://arxiv.org/ftp/arxiv/papers/1606/1606.08698.pdf)
+- [Dealing with class imbalance using thresholding](https://arxiv.org/pdf/1607.02705.pdf)
+### others
+- [Classifying imbalanced data sets using similarity based hierarchical decomposition](http://www.sciencedirect.com/science/article/pii/S003132031400449X)
