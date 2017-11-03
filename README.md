@@ -58,6 +58,11 @@
 - [Model-Based Oversampling for Imbalanced Sequence Classification](http://home.ustc.edu.cn/~zcgong/Paper/Model-Based%20Oversampling%20for%20Imbalanced%20Sequence%20Classification.pdf)
 - [Integrated Oversampling for Imbalanced Time Series Classification](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6468038)
 - [An Effective Method for Imbalanced Time Series Classification: Hybrid Sampling](https://link.springer.com/chapter/10.1007/978-3-319-03680-9_38)
+- [SPO: Structure Preserving Oversampling for Imbalanced Time Series Classification](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6137306)
+- [A Comparative Study of Sampling Methods and Algorithms for Imbalanced Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-642-35101-3_54)
+- [Improving SVM classification on imbalanced time series data sets with ghost points](https://link.springer.com/content/pdf/10.1007%2Fs10115-010-0310-3.pdf)
+- [A Parsimonious Mixture of Gaussian Trees Model for Oversampling in Imbalanced and Multimodal Time-Series Classification](http://ieeexplore.ieee.org/document/6766252/)
+
 
 ### Cost-Sensitive
 - [Cost-Sensitive Learning Methods for imbalanced data](https://www.ismll.uni-hildesheim.de/pub/pdfs/Nguyen_et_al_IJCNN2010_CSL.pdf)
